@@ -1,0 +1,9 @@
+# Working data: large, reproducible, and not ours to redistribute.
+/parts/
+/lean/
+/mathlib-cache/
+/sandbox/
+/status.txt
+.metadata_never_index
+.DS_Store
+/record/build.log

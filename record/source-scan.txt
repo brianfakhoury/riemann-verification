@@ -1,0 +1,19 @@
+# Source scan of lean/src (175187 .lean files), 2026-11-21T04:33:05Z
+# ripgrep 15.2.0; word-boundary regex over all text, comments included
+sorry                                     0 matches in      0 files
+admit                                     0 matches in      0 files
+axiom declarations                        0 matches in      0 files
+native_decide                             0 matches in      0 files
+ofReduceBool/trustCompiler                0 matches in      0 files
+unsafe                                    0 matches in      0 files
+implemented_by                            0 matches in      0 files
+extern                                    0 matches in      0 files
+csimp                                     0 matches in      0 files
+debug.skipKernelTC                        0 matches in      0 files
+kernel options                            0 matches in      0 files
+IO.Process / IO.FS                        0 matches in      0 files
+run_cmd                                   5 matches in      5 files
+#eval                                     0 matches in      0 files
+addDecl                                   2 matches in      1 files
+elab/macro/syntax defs                   91 matches in     67 files
+set_option maxHeartbeats              57556 matches in  54080 files

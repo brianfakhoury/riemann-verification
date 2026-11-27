@@ -1,0 +1,59 @@
+20:35:58  preflight ok: 860 GB free, toolchain leanprover/lean4:v4.33.1, jobs=12, qos=utility
+20:35:58  fetch: archive already verified
+20:35:58  unpack: already done
+20:35:58  cache: already done
+20:35:58  build: lake build Main with 12 jobs (log: record/build.log)
+20:40:03  preflight ok: 858 GB free, toolchain leanprover/lean4:v4.33.1, jobs=12, qos=utility
+20:40:03  fetch: archive already verified
+20:40:03  unpack: already done
+20:40:03  cache: already done
+20:40:03  build: lake build Main with 12 jobs (log: record/build.log)
+21:01:19  preflight ok: 856 GB free, toolchain leanprover/lean4:v4.33.1, jobs=12, qos=utility
+21:01:19  fetch: archive already verified
+21:01:19  unpack: already done
+21:01:19  cache: already done
+21:01:19  build: lake build Main with 12 jobs (log: record/build.log)
+21:08:05  preflight ok: 853 GB free, toolchain leanprover/lean4:v4.33.1, jobs=12, qos=none
+21:08:05  fetch: archive already verified
+21:08:05  unpack: already done
+21:08:05  cache: already done
+21:08:05  build: lake build Main with 12 jobs (log: record/build.log)
+11:00:06  preflight ok: 431 GB free, toolchain leanprover/lean4:v4.33.1, jobs=12, qos=none
+11:00:06  fetch: archive already verified
+11:00:06  unpack: already done
+11:00:06  cache: already done
+11:00:06  build: lake build Main with 12 jobs (log: record/build.log)
+20:01:03  preflight ok: 334 GB free, toolchain leanprover/lean4:v4.33.1, jobs=12, qos=none
+20:01:03  fetch: archive already verified
+20:01:03  unpack: already done
+20:01:03  cache: already done
+20:01:03  build: lake build Main with 12 jobs (log: record/build.log)
+20:54:00  ERROR: build: lake exited 1, see record/build.log
+20:55:35  preflight ok: 292 GB free, toolchain leanprover/lean4:v4.33.1, jobs=6, qos=none
+20:55:35  fetch: archive already verified
+20:55:35  unpack: already done
+20:55:35  cache: already done
+20:55:35  build: lake build Main with 6 jobs (log: record/build.log)
+21:04:14  ERROR: build: lake exited 1, see record/build.log
+21:05:13  preflight ok: 289 GB free, toolchain leanprover/lean4:v4.33.1, jobs=1, qos=none
+21:05:13  fetch: archive already verified
+21:05:13  unpack: already done
+21:05:13  cache: already done
+21:05:13  build: lake build Main with 1 jobs (log: record/build.log)
+21:09:18  ERROR: build: lake exited 1, see record/build.log
+22:51:27  preflight ok: 284 GB free, toolchain leanprover/lean4:v4.33.1, jobs=2, qos=none
+22:51:27  fetch: archive already verified
+22:51:27  unpack: already done
+22:51:27  cache: already done
+22:51:27  build: lake build Main with 2 jobs (log: record/build.log)
+23:06:16  build: finished
+23:06:18  tidy: removed 1 setup files of finished modules
+23:06:18  axioms: running #print axioms on 5 theorems
+'riemannHypothesis' depends on axioms: [propext, Classical.choice, Quot.sound]
+'riemannZeta_eq_zero_re' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LFunction_ne_zero_of_half_lt_re' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LFunction_eq_zero_re' depends on axioms: [propext, Classical.choice, Quot.sound]
+'LFunction_eq_zero_re_of_isPrimitive' depends on axioms: [propext, Classical.choice, Quot.sound]
+23:08:31  VERDICT: PASS. All 5 theorems depend only on: propext Classical.choice Quot.sound
+23:08:31  manifest: hashing compiled modules
+23:12:55  manifest: 175187 files hashed
