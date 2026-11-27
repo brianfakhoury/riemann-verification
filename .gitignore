@@ -6,4 +6,4 @@
 /status.txt
 .metadata_never_index
 .DS_Store
-/record/build.log
+/record/build.log*
